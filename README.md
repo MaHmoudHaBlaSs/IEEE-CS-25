@@ -34,8 +34,9 @@ Welcome to my task solutions repository! Below is an organized list of the tasks
 
 ## How to Navigate
 
-- Each task folder is organized with individual solution files.
-- Click on the problem names to view the corresponding solution code.
+- Each task folder contains solutions to various Codeforces problems.
+- Click on the problem name to view the problem on Codeforces.
+- Click on "Solution" to view my implementation.
 
 ---
 
