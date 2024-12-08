@@ -31,6 +31,19 @@ Welcome to my task solutions repository! Below is an organized list of the tasks
    - [Solution](https://github.com/MaHmoudHaBlaSs/IEEE-CS-25/blob/master/Rookies/Task_2/PointsOnLine.java)
 
 ---
+## Task 3
+1. **[C. Number of Pairs](https://codeforces.com/problemset/problem/1538/C)**
+   - [Solution](https://github.com/MaHmoudHaBlaSs/IEEE-CS-25/blob/master/Rookies/Task_3/NumberOfPairs.java)
+2. **[B. Books](https://codeforces.com/problemset/problem/279/B)**
+   - [Solution](https://github.com/MaHmoudHaBlaSs/IEEE-CS-25/blob/master/Rookies/Task_3/Books.java)
+3. **[C. Alice, Bob and Chocolate](https://codeforces.com/problemset/problem/6/C)**
+   - [Solution](https://github.com/MaHmoudHaBlaSs/IEEE-CS-25/blob/master/Rookies/Task_3/AliceBobAndChocolate.java)
+4. **[C. Balanced Team](https://codeforces.com/problemset/problem/1133/C)**
+   - [Solution](https://github.com/MaHmoudHaBlaSs/IEEE-CS-25/blob/master/Rookies/Task_3/BalancedTeam.java)
+5. **[Pairs](https://www.hackerrank.com/challenges/pairs/problem)**
+   - [Solution](https://github.com/MaHmoudHaBlaSs/IEEE-CS-25/blob/master/Rookies/Task_3/Pairs.java)
+     
+---
 
 ## How to Navigate
 
