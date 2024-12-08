@@ -32,8 +32,8 @@ Welcome to my task solutions repository! Below is an organized list of the tasks
 
 ---
 ## Task 3
-1. **[C. Number of Pairs](https://codeforces.com/problemset/problem/1538/C)**
-   - [Solution](https://github.com/MaHmoudHaBlaSs/IEEE-CS-25/blob/master/Rookies/Task_3/NumberOfPairs.java)
+1. **[C. Number of Pairs](https://codeforces.com/problemset/problem/1538/C)** 
+   - [Solution](https://github.com/MaHmoudHaBlaSs/IEEE-CS-25/blob/master/Rookies/Task_3/NumberOfPairs.java) <!-- Need To Be Reviewed !! -->
 2. **[B. Books](https://codeforces.com/problemset/problem/279/B)**
    - [Solution](https://github.com/MaHmoudHaBlaSs/IEEE-CS-25/blob/master/Rookies/Task_3/Books.java)
 3. **[C. Alice, Bob and Chocolate](https://codeforces.com/problemset/problem/6/C)**
